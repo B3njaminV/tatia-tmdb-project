@@ -8,7 +8,10 @@
 
 ---
 
-## 📣 Introduction
+## 📣 Idée
+
+1 - Analyse des données du dataset
+2 - 
 
 ## ✍️ Auteur
 

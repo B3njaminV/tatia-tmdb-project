@@ -10,8 +10,10 @@
 
 ## 📣 Idée
 
-1 - Analyse des données du dataset
-2 - 
+Idée : l'utilisateur fournit un titre de film
+- le film est classifié par un algorithme de classification.
+- un algorithme de recommandation sélectionne des films correspondant à la classe prédite
+- l'algorithme fournit un classement des 10 films qui sont les plus similaires au film fourni par l’utilisateur.
 
 ## ✍️ Auteur
 

@@ -1,0 +1,13 @@
+===============================
+Recommandations pour 'Avatar':
+===============================
+1. Avatar (Similarité : 1.0000)
+2. The Sum of All Fears (Similarité : 1.0000)
+3. Independence Daysaster (Similarité : 0.9999)
+4. Ride with the Devil (Similarité : 0.9998)
+5. The Losers (Similarité : 0.9998)
+6. Absolute Power (Similarité : 0.9998)
+7. Warriors of Virtue (Similarité : 0.9997)
+8. Dredd (Similarité : 0.9997)
+9. The Bone Collector (Similarité : 0.9997)
+10. Along Came a Spider (Similarité : 0.9997)

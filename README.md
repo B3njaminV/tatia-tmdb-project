@@ -11,7 +11,7 @@
 ## 🚀 Projet
 
 Projet de Traitement Automatique de Texte par IA ayant pour objectif de définir le genre d'un film à partir de son synopsis.
-Le [dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data) utilisé est un dataset fournis par la plateforme kaggle portant sur une base de données [TMDB].(https://www.themoviedb.org/?language=fr)
+Le [dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data) utilisé est un dataset fournis par la plateforme kaggle portant sur une base de données [TMDB](https://www.themoviedb.org/?language=fr).
 
 ## ✍️ Auteurs
 

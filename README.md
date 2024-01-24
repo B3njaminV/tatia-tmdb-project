@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="DataHub" src="https://www.demotal.fr/wp-content/uploads/2023/02/demotal-illustration-traitement-automatique-des-langues.jpg" height="200px" />
+<img alt="DataHub" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tmdb.new.logo.svg/2560px-Tmdb.new.logo.svg.png" height="200px" />
 </p>
 <h1 align="center"> TATIA Project 👋</h1>
 
@@ -7,6 +7,10 @@
 📰 [DATASET](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata/data)
 
 ---
+
+## 🚀 Projet
+
+Projet de Traitement Automatique de Texte par IA ayant pour objectif de définir le genre d'un film à partir de son synopsis
 
 ## ✍️ Auteurs
 
